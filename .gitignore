@@ -5,6 +5,17 @@
 *.dcm
 *.bck
 
+#################
+# Wings 3D File Excludes
+#################
+*.wings~
+
+#################
+# Other miscellaneous Ignores
+#################
+*.txt~
+.gitignore~
+
 
 ############
 ## Windows
