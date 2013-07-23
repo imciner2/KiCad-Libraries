@@ -25,6 +25,7 @@ MiscellaneousDevices -
  * SPDT Switch
  * SPST Switch
  * Current Transformer
+ * Texas Instruments INA333 Instrumentation Amplifier
 
 RF_OEM_Parts - 
  * RFD900
