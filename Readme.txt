@@ -1,5 +1,13 @@
 KiCad Libraries
 
+Templates:
+
+In order to use the templates contained in this folder, you must add an environment variable called KICAD_PTEMPLATES. This will create a page in the Kicad template selector for "Portable Templates".
+
+To add this in Linux, simply add these two lines to the .bashrc file
+# Add an environment variable to add the GitHub KiCad templates
+export KICAD_PTEMPLATES='path/to/github/directory'
+
 
 Schematic Library Contents:
 
