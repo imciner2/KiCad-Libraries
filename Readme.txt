@@ -18,6 +18,7 @@ Microprocessors -
  * Sparkfun Atmega 32U4 Breakout Board
  * Microchip PIC18F27J13
  * Microchip PIC32MX340F512H
+ * Texas Instruments MSP430G2553 (20, 28, 32 pin versions)
 
 MiscellaneousDevices - 
  * 74LVC1G374  D-type Latch
@@ -32,6 +33,7 @@ MiscellaneousDevices -
  * SPDT Switch
  * SPST Switch
  * Current Transformer
+ * Texas Instruments INA333 Instrumentation Amplifier
 
 RF_OEM_Parts - 
  * RFD900
