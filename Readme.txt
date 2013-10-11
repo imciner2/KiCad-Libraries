@@ -34,6 +34,7 @@ MiscellaneousDevices -
  * SPST Switch
  * Current Transformer
  * Texas Instruments INA333 Instrumentation Amplifier
+ * Texas Instruments TS63061 Buck/Boost regulator
 
 RF_OEM_Parts - 
  * RFD900
@@ -46,11 +47,13 @@ Sensors -
  * Sparkfun Honeywell HMC6352 3-axis magnetometer breakout
  * InvenSense MPU9150 9-dof IMU
  * SkyTraq Venus638 GPS Receiver
+ * Atenova M2M M10382 GPS Receiver
 
 TransistorParts - 
  * 3-Terminal (GDS) MOSFET
  * NMOST+PMOS in one package
  * NPN+PNP in one package
+ * Dual NMOS in one package
 
 
 PCB Footprints:
