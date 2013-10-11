@@ -13,6 +13,7 @@ Schematic Library Contents:
 
 DataStorage - 
  * SD Card
+ * uSD Card
 
 Microprocessors - 
  * Sparkfun Atmega 32U4 Breakout Board
@@ -77,6 +78,7 @@ Fooprints -
  * Connector - JST 2-terminal SMD
  * Connector - JST 3-terminal SMD
  * Connector - JST 3-terminal Throughole
+ * D2PACK
  * LGA 14 pacakge used by the ADXL345
  * MicroSD - Hinged slot by Amphenol (Digikey #: 101-00303-68-1-ND)
  * Invensense MPU9150
@@ -100,6 +102,7 @@ Fooprints -
  * Connector - Deans
  * Connector - Deans Micro
  * LED - 1206
+ * D2PACK
  * Battery - CR2032 by Memory Protection Devices (Digikey #: BC2032-F1-ND)
  * MPU9150
  * MicroSD - Hinged slot by Amphenol (Digikey #: 101-00303-68-1-ND)
