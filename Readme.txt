@@ -48,7 +48,7 @@ Sensors -
  * Sparkfun Honeywell HMC6352 3-axis magnetometer breakout
  * InvenSense MPU9150 9-dof IMU
  * SkyTraq Venus638 GPS Receiver
- * Atenova M2M M10382 GPS Receiver
+ * Antenova M2M M10382 GPS Receiver
 
 TransistorParts - 
  * 3-Terminal (GDS) MOSFET
@@ -79,8 +79,10 @@ Fooprints -
  * Connector - JST 3-terminal SMD
  * Connector - JST 3-terminal Throughole
  * D2PACK
- * LGA 14 pacakge used by the ADXL345
+ * LGA 14 package used by the ADXL345 accelerometer
+ * SON-10 package used by the TPS6063x series regulators
  * MicroSD - Hinged slot by Amphenol (Digikey #: 101-00303-68-1-ND)
+ * Antenova M2M M10382 GPS Module
  * Invensense MPU9150
  * Nichrome Wire Connections - Surface mount
  * 0805 Split pad device (Soldering component completes connection between pad)
@@ -104,6 +106,7 @@ Fooprints -
  * LED - 1206
  * D2PACK
  * Battery - CR2032 by Memory Protection Devices (Digikey #: BC2032-F1-ND)
+ * Antenova M2M M10382 GPS Module
  * MPU9150
  * MicroSD - Hinged slot by Amphenol (Digikey #: 101-00303-68-1-ND)
  * SOT363
@@ -112,4 +115,5 @@ Fooprints -
  * Switch - 3-switch SMD DIP Switch (Digikey #: CKN6060-ND)
  * Switch - DPDT by Eswitch (Digikey #: EG1940-ND)
  * Switch - DPST by Tyco Electronics (Digikey #: 450-1635-ND)
- * Skytraq Venus638
+ * Skytraq Venus638 GPS Module
+ * SON-10 package
