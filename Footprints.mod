@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Fri 11 Oct 2013 11:11:32 PM CDT
+PCBNEW-LibModule-V1  Fri 11 Oct 2013 11:36:45 PM CDT
 # encoding utf-8
 Units mm
 $INDEX
@@ -176,7 +176,7 @@ Ne 0 ""
 Po -15.485 0
 $EndPAD
 $SHAPE3D
-Na "Custom/MPD_CR2032.wrl"
+Na "3D/MPD_CR2032.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
@@ -1524,7 +1524,7 @@ Ne 0 ""
 Po 0.42418 2.54
 $EndPAD
 $SHAPE3D
-Na "Custom/Deans.wrl"
+Na "3D/Deans.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
@@ -1559,7 +1559,7 @@ Ne 0 ""
 Po 1.04902 -2.794
 $EndPAD
 $SHAPE3D
-Na "Custom/DeansMicro.wrl"
+Na "3D/DeansMicro.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
@@ -1745,7 +1745,7 @@ Ne 0 ""
 Po 4.5 -10.175
 $EndPAD
 $SHAPE3D
-Na "Custom/D2PACK.wrl"
+Na "3D/D2PACK.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
@@ -1930,9 +1930,9 @@ Ne 0 ""
 Po 0 -2.09804
 $EndPAD
 $SHAPE3D
-Na "Custom/ADXL345.wrl"
+Na "3D/ADXL345.wrl"
 Sc 0.3937 0.3937 0.3937
-Of 0 0 0.019685
+Of 0 0 0
 Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE LGA-14
@@ -2304,7 +2304,7 @@ Ne 0 ""
 Po -6.72592 3.59918
 $EndPAD
 $SHAPE3D
-Na "Custom/SD-Amp-microSlot.wrl"
+Na "3D/SD-Amp-microSlot.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 -0.261181 0
 Ro 0 0 0
@@ -2492,7 +2492,7 @@ Ne 0 ""
 Po -1.25 -1.975
 $EndPAD
 $SHAPE3D
-Na "Custom/MPU9150.wrl"
+Na "3D/MPU9150.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
@@ -2743,7 +2743,7 @@ Ne 0 ""
 Po 1.016 -0.635
 $EndPAD
 $SHAPE3D
-Na "Custom/SOT-363.wrl"
+Na "3D/SOT-363.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
@@ -2903,7 +2903,7 @@ Ne 0 ""
 Po 3.175 -11.43
 $EndPAD
 $SHAPE3D
-Na "Custom/Spectrolab_TASC1.wrl"
+Na "3D/Spectrolab_TASC1.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
@@ -2937,7 +2937,7 @@ Ne 0 ""
 Po -3.11932 -11.43
 $EndPAD
 $SHAPE3D
-Na "Custom/Spectrolab_TASC2.wrl"
+Na "3D/Spectrolab_TASC2.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
@@ -2999,7 +2999,7 @@ Ne 0 ""
 Po -2.54 4.05
 $EndPAD
 $SHAPE3D
-Na "Custom/Switch-DIP-SMD-3.wrl"
+Na "3D/Switch-DIP-SMD-3.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
@@ -3069,6 +3069,12 @@ At STD N 00E0FFFF
 Ne 0 ""
 Po 4.8006 0
 $EndPAD
+$SHAPE3D
+Na "3D/Switch-Eswitch-Slide.wrl"
+Sc 0.3937 0.3937 0.3937
+Of 0 0 0
+Ro 0 0 0
+$EndSHAPE3D
 $EndMODULE SWITCH_DPDT_ESWITCH
 $MODULE SWITCH_DPST_TE
 Po 0 0 0 15 51C8CDE3 00000000 ~~
@@ -3109,7 +3115,7 @@ Ne 0 ""
 Po 1.99898 0
 $EndPAD
 $SHAPE3D
-Na "Custom/Switch-TE-Slide.wrl"
+Na "3D/Switch-TE-Slide.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
@@ -4306,7 +4312,7 @@ Ne 0 ""
 Po 3 -3
 $EndPAD
 $SHAPE3D
-Na "Custom/Venus638.wrl"
+Na "3D/Venus638.wrl"
 Sc 0.3937 0.3937 0.3937
 Of 0 0 0
 Ro 0 0 0
