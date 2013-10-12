@@ -79,6 +79,7 @@ Fooprints -
  * Connector - JST 3-terminal SMD
  * Connector - JST 3-terminal Throughole
  * D2PACK
+ * HC-49 Surface Mount Crystal
  * LGA 14 package used by the ADXL345 accelerometer
  * SON-10 package used by the TPS6063x series regulators
  * MicroSD - Hinged slot by Amphenol (Digikey #: 101-00303-68-1-ND)
@@ -106,6 +107,7 @@ Fooprints -
  * LED - 1206
  * D2PACK
  * Battery - CR2032 by Memory Protection Devices (Digikey #: BC2032-F1-ND)
+ * HC-49 Surface Mount Crystal
  * Antenova M2M M10382 GPS Module
  * MPU9150
  * MicroSD - Hinged slot by Amphenol (Digikey #: 101-00303-68-1-ND)
