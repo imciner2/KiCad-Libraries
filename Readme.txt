@@ -114,6 +114,7 @@ Fooprints -
  * SOT363
  * Solarcells - Spectrolab TASC1
  * Solarcells - Spectrolab TASC2
+ * Solarcells - Spectrolab 26.62 sq-cm CIC
  * Switch - 3-switch SMD DIP Switch (Digikey #: CKN6060-ND)
  * Switch - DPDT by Eswitch (Digikey #: EG1940-ND)
  * Switch - DPST by Tyco Electronics (Digikey #: 450-1635-ND)
