@@ -36,6 +36,9 @@ MiscellaneousDevices -
  * Current Transformer
  * Texas Instruments INA333 Instrumentation Amplifier
  * Texas Instruments TS63061 Buck/Boost regulator
+ * AC/DC Dual Rail Convertor
+ * AC/DC Single Rail Convertor
+ * Linear Regulator (Generic symbol for any 3-pin regulator)
 
 RF_OEM_Parts - 
  * RFD900
@@ -78,6 +81,11 @@ Fooprints -
  * Connector - JST 2-terminal SMD
  * Connector - JST 3-terminal SMD
  * Connector - JST 3-terminal Throughole
+ * Connector - Molex MiniFit Jr. 3-terminal Throughole
+ * Radial Capacitors:
+    - 2.0mm lead spacing, 6.3mm diameter
+    - 2.5mm lead spacing, 5.0mm diameter
+    - 5.0mm lead spacing, 10.0mm diameter
  * D2PACK
  * HC-49 Surface Mount Crystal
  * LGA 14 package used by the ADXL345 accelerometer
@@ -89,6 +97,7 @@ Fooprints -
  * 0805 Split pad device (Soldering component completes connection between pad)
  * 2010 Surface Mount Package
  * SOT363 Surface Mount Package
+ * T0-220 Horizontal Package
  * Solarcells - Spectrolab 26.62 CICs
  * Solarcells - Spectrolab TASC1
  * Solarcells - Spectrolab TASC2
@@ -98,6 +107,8 @@ Fooprints -
  * Synapse SM200
  * Skytraq Venus638
  * Xbee/Xbee pro (Connectors Digikey Part #: S5751-10-ND)
+ * Racom RAC15 Series Board Mount Power Supplies
+ * CUI VSK-S20 Series Board Mount Power Supplies
 
 
 3D Components:
