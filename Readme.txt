@@ -76,6 +76,16 @@ Fooprints -
  * Connector - 1x7 (Friction Fit capable)
  * Connector - 1x8 (Friction Fit capable)
  * Connector - 1x9 (Friction Fit capable)
+ * Connector - 2x2
+ * Connector - 2x3
+ * Connector - 2x4
+ * Connector - 2x5
+ * Connector - 2x6
+ * Connector - 2x7
+ * Connector - 2x8
+ * Connector - 2x9
+ * Connector - 2x17
+ * Connector - DB9 Slim Mount
  * Connector - Deans
  * Connector - Deans Micro
  * Connector - JST 2-terminal SMD
