@@ -62,6 +62,8 @@ TransistorParts -
 
 PCB Footprints:
 
+(Unless a manufacturer/pitch is specified, all connectors are 0.1in pitch)
+
 Fooprints - 
  * Axis Notation - Z into board
  * Axis Notation - Z out of board
