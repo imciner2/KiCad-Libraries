@@ -39,11 +39,14 @@ MiscellaneousDevices -
  * AC/DC Dual Rail Convertor
  * AC/DC Single Rail Convertor
  * Linear Regulator (Generic symbol for any 3-pin regulator)
+ * 18x2 connector
+ * Differential Communications Receiver
 
 RF_OEM_Parts - 
  * RFD900
  * SL1204 GPS Antenna
  * Synapse S200
+ * Synapse RF300
  * XBee
 
 Sensors - 
@@ -52,6 +55,8 @@ Sensors -
  * InvenSense MPU9150 9-dof IMU
  * SkyTraq Venus638 GPS Receiver
  * Antenova M2M M10382 GPS Receiver
+ * Honeywell HIH-5030/5031 Humidity Sensor
+ * ST Micro LPS331 Pressure Sensor
 
 TransistorParts - 
  * 3-Terminal (GDS) MOSFET
