@@ -126,7 +126,7 @@ Fooprints -
  * Xbee/Xbee pro (Connectors Digikey Part #: S5751-10-ND)
  * Racom RAC15 Series Board Mount Power Supplies
  * CUI VSK-S20 Series Board Mount Power Supplies
-
+ * Honeywell HIH-5030/5031 Humidity Sensor
 
 3D Components:
  * ADXL345
