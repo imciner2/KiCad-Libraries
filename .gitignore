@@ -13,8 +13,9 @@
 #################
 # Other miscellaneous Ignores
 #################
-*.txt~
+*.~		# Ignore the gedit temp files
 .gitignore~
+*.swp		# Ignore Vim swap files
 
 
 ############
