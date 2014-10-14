@@ -1,5 +1,7 @@
 KiCad Libraries
 
+This library is licensed under the Creative Commons BY-SA 4.0 license. The full legal text of the license may be found in the LICENSE.txt file in this repository. For more information about this license, please visit the Creative Commons Foundation (http://creativecommons.org/licenses/by-sa/4.0/).
+
 Templates:
 
 In order to use the templates contained in this folder, you must add an environment variable called KICAD_PTEMPLATES. This will create a page in the Kicad template selector for "Portable Templates".
