@@ -43,6 +43,8 @@ MiscellaneousDevices -
  * Linear Regulator (Generic symbol for any 3-pin regulator)
  * 18x2 connector
  * Differential Communications Receiver
+ * TI DAC5311 8-bit digital-to-analog converter
+ * Analog Devices ADA4805-1 low power/shutdown controller operational amplifier
 
 RF_OEM_Parts - 
  * RFD900
