@@ -46,6 +46,7 @@ MiscellaneousDevices -
  * TI DAC5311 8-bit digital-to-analog converter
  * Analog Devices ADA4805-1 low power/shutdown controller operational amplifier
  * TI LM3481 DC/DC low-side NFET converter controller
+ * CubeSat Kit 52-pin dual row header
 
 RF_OEM_Parts - 
  * RFD900
@@ -104,6 +105,7 @@ Fooprints -
  * Connector - JST 3-terminal SMD
  * Connector - JST 3-terminal Throughole
  * Connector - Molex MiniFit Jr. 3-terminal Throughole
+ * Connector - CubeSat Kit dual row 52-pin header
  * Radial Capacitors:
     - 2.0mm lead spacing, 6.3mm diameter
     - 2.5mm lead spacing, 5.0mm diameter
