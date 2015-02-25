@@ -45,6 +45,7 @@ MiscellaneousDevices -
  * Differential Communications Receiver
  * TI DAC5311 8-bit digital-to-analog converter
  * Analog Devices ADA4805-1 low power/shutdown controller operational amplifier
+ * TI LM3481 DC/DC low-side NFET converter controller
 
 RF_OEM_Parts - 
  * RFD900
