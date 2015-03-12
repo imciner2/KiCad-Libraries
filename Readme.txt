@@ -69,6 +69,8 @@ TransistorParts -
  * NMOST+PMOS in one package
  * NPN+PNP in one package
  * Dual NMOS in one package
+ * NMOS with body diode
+ * PMOS with body diode
 
 
 PCB Footprints:
