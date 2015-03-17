@@ -65,7 +65,8 @@ Sensors -
  * ST Micro LPS331 Pressure Sensor
 
 TransistorParts - 
- * 3-Terminal (GDS) MOSFET
+ * 3-Terminal (GDS) PMOS
+ * 3-Terminal (GDS) NMOS
  * NMOST+PMOS in one package
  * NPN+PNP in one package
  * Dual NMOS in one package
