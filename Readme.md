@@ -13,12 +13,19 @@ The suggested method of using the components from this library is to keep a loca
 To get the contents of this library into a project git repository:
 
 1. Add the remote link:
+
     ``` git remote add libraries https://github.com/imciner2/KiCad-Libraries.git ```
+
 2. Get the current libraries:
+
     ``` git fetch libraries ```
+
 3. Initially add the libraries to a project:
+
     ``` git read-tree --prefix=2-Hardware/libraries -u libraries/master ```
+
 4. Commit the libraries into the repository:
+
     ``` git commit -m "Kicad libraries initial commit" ```
 
 
