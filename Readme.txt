@@ -1,11 +1,11 @@
-#KiCad Libraries
+# KiCad Libraries
 
 This library is licensed under the Creative Commons BY-SA 4.0 license. The full legal text of the license may be found in the LICENSE.txt file in this repository. For more information about this license, please visit the Creative Commons Foundation (http://creativecommons.org/licenses/by-sa/4.0/).
 
-##Using this library
+## Using this library
 ============
 
-###Component Files
+### Component Files
 
 The suggested method of using the components from this library is to keep a local copy inside your project's git repository. Changes can then be made on that local copy for the project, and pushed back to the main branch.
 
@@ -16,7 +16,7 @@ To get the contents of this library into a project git repository:
 4. Commit the libraries into the repository: git commit -m "Kicad libraries initial commit"
 
 
-###Templates
+### Templates
 
 In order to use the templates contained in this folder, you must add an environment variable called KICAD_PTEMPLATES. This will create a page in the Kicad template selector for "Portable Templates".
 
@@ -25,7 +25,7 @@ To add this in Linux, simply add these two lines to the .bashrc file
 export KICAD_PTEMPLATES='path/to/github/directory'
 
 
-##Schematic Library Contents
+## Schematic Library Contents
 ============
 
 DataStorage - 
@@ -89,7 +89,7 @@ TransistorParts -
  * PMOS with body diode
 
 
-##PCB Footprints
+## PCB Footprints
 ============
 
 (Unless a manufacturer/pitch is specified, all connectors are 0.1in pitch)
