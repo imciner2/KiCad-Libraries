@@ -14,10 +14,13 @@ To get the contents of this library into a project git repository:
 
 1. Add the remote link:
         git remote add libraries https://github.com/imciner2/KiCad-Libraries.git
+
 2. Get the current libraries:
         git fetch libraries
+
 3. Initially add the libraries to a project:
         git read-tree --prefix=2-Hardware/libraries -u libraries/master
+
 4. Commit the libraries into the repository:
         git commit -m "Kicad libraries initial commit"
 
@@ -28,10 +31,10 @@ In order to use the templates contained in this folder, you must add an environm
 
 To add this in Linux, simply add these two lines to the .bashrc file
 
-'''
+```
 # Add an environment variable to add the GitHub KiCad templates
 export KICAD_PTEMPLATES='path/to/github/directory'
-'''
+```
 
 ## Schematic Library Contents
 
