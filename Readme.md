@@ -1,5 +1,7 @@
 # KiCad Libraries
 
+A library containing Kicad schematic symbols, footprints, and project templates.
+
 ## License
 
 This library is licensed under the Creative Commons BY-SA 4.0 license. The full legal text of the license may be found in the LICENSE.txt file in this repository. For more information about this license, please visit the Creative Commons Foundation (http://creativecommons.org/licenses/by-sa/4.0/).
@@ -28,6 +30,20 @@ To get the contents of this library into a project git repository:
 
     ``` git commit -m "Kicad libraries initial commit" ```
 
+
+To read in any changes from remote into the project repository:
+
+1. Fetch the changes
+
+    ``` git fetch libraries ```
+
+2. Merge the changes
+
+    ``` git merge -s subtree --squash libraries/master ```
+
+3. Commit the changes
+
+    `` git commit -m "Updated libraries directory"
 
 ### Templates
 
