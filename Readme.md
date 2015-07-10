@@ -43,7 +43,7 @@ To read in any changes from remote into the project repository:
 
 3. Commit the changes
 
-    `` git commit -m "Updated libraries directory"
+    ``` git commit -m "Updated libraries directory" ```
 
 ### Templates
 
