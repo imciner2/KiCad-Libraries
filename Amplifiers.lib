@@ -1,0 +1,50 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# ADA4805-1
+#
+DEF ADA4805-1 U 0 40 Y Y 1 F N
+F0 "U" 250 300 60 H V C CNN
+F1 "ADA4805-1" 300 -250 60 H V C CNN
+F2 "SOT-23-6" 250 1300 60 H I C CNN
+F3 "http://www.analog.com/media/en/technical-documentation/data-sheets/ADA4805-1_4805-2.pdf" 350 900 60 H I C CNN
+F4 "ADA4805-1ARJZ-R7CT-ND" 350 1050 60 H I C CNN "DigikeyNumber"
+F5 "Analog_Devices" 300 1150 60 H I C CNN "Manufacturer"
+F6 "ADA4805-1ARJZ-R7" 400 750 60 H I C CNN "ManufacturerNumber"
+DRAW
+P 2 0 1 0  450 0  -300 400 N
+P 3 0 1 0  450 0  -300 -400  -300 400 N
+X Vout 1 550 0 100 L 50 50 1 1 I
+X -Vs 2 0 -350 100 U 50 50 1 1 I
+X + 3 -400 250 100 R 50 50 1 1 I
+X - 4 -400 -250 100 R 50 50 1 1 I
+X ~SHUTDOWN 5 -400 0 100 R 50 50 1 1 I
+X +Vs 6 0 350 100 D 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# MCP6L02
+#
+DEF MCP6L02 U 0 40 Y Y 2 F N
+F0 "U" 250 300 60 H V C CNN
+F1 "MCP6L02" 300 -250 60 H V C CNN
+F2 "" 250 1300 60 H I C CNN
+F3 "http://ww1.microchip.com/downloads/en/DeviceDoc/22140b.pdf" 350 900 60 H I C CNN
+F4 "MCP6L02T-E/MSCT-ND" 350 1050 60 H I C CNN "DigikeyNumber"
+F5 "Microchip" 300 1150 60 H I C CNN "Manufacturer"
+F6 "MCP6L02T-E/MS" 400 750 60 H I C CNN "ManufacturerNumber"
+DRAW
+P 2 0 1 0  450 0  -300 400 N
+P 3 0 1 0  450 0  -300 -400  -300 400 N
+X Vout 1 550 0 100 L 50 50 1 1 I
+X - 2 -400 -250 100 R 50 50 1 1 I
+X + 3 -400 250 100 R 50 50 1 1 I
+X Vss 4 0 -350 100 U 50 50 1 1 I
+X Vdd 8 0 350 100 D 50 50 1 1 I
+X + 5 -400 250 100 R 50 50 2 1 I
+X - 6 -400 -250 100 R 50 50 2 1 I
+X Vout 7 550 0 100 L 50 50 2 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
