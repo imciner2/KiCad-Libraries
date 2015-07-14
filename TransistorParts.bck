@@ -10,4 +10,8 @@ D Power PMOS with body diode
 K Power MOSFET, PMOS, Body Diode
 $ENDCMP
 #
+$CMP PNP_3-Term
+D Generic PNP Transistor
+$ENDCMP
+#
 #End Doc Library
