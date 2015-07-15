@@ -1,0 +1,14 @@
+(module TESTPOINT_063 (layer F.Cu) (tedit 55A6C00A)
+  (fp_text reference REF** (at 0 2.7) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value TESTPOINT_063 (at 0 -2.032) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 2.54 2.54) (drill 1.6002) (layers *.Cu *.Mask F.SilkS))
+  (model 3D/Testpoint_063.wrl
+    (at (xyz -0.0625 0.0625 -0.125))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz -90 0 0))
+  )
+)
