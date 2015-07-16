@@ -12,7 +12,7 @@
   (pad 4 thru_hole circle (at -3.88 3.88) (size 1.9 1.9) (drill 1.4) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at 0 5.5) (size 1.9 1.9) (drill 1.4) (layers *.Cu *.Mask F.SilkS))
   (pad 6 thru_hole circle (at 4.5 0) (size 1.9 1.9) (drill 1.4) (layers *.Cu *.Mask F.SilkS))
-  (model 3D/DIN_CUI_SD-50BV.wrl
+  (model 3D/Connectors/DIN_CUI_SD-50BV.wrl
     (at (xyz -0.315 -0.315 -0.16))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
