@@ -24,4 +24,9 @@
   (pad 10 thru_hole circle (at -1.27 1.27) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
   (pad 11 thru_hole circle (at -3.81 1.27) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
   (pad 12 thru_hole circle (at -6.35 1.27) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask F.SilkS))
+  (model 3D/CONN_2x6_Male.wrl
+    (at (xyz -0.32 0.34 0.2))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 180 180))
+  )
 )
