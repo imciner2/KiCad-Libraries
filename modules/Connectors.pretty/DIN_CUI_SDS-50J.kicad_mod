@@ -1,8 +1,8 @@
-(module DIN_5_HORIZ_SDS-50J (layer F.Cu) (tedit 55A6CEC8)
+(module DIN_CUI_SDS-50J (layer F.Cu) (tedit 55A6CEC8)
   (fp_text reference REF** (at 0 -15) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value DIN_5_HORIZ_SDS-50J (at 0 3.5) (layer F.Fab) hide
+  (fp_text value DIN_CUI_SDS-50J (at 0 3.5) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -10 -13.3) (end -10 -13.8) (layer F.SilkS) (width 0.15))
