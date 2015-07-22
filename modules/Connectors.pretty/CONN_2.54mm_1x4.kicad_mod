@@ -1,8 +1,8 @@
-(module CONN_2.54mm_1x4 (layer F.Cu) (tedit 55107092)
-  (fp_text reference CONN_2.54mm_1x4 (at 0 2.54) (layer F.SilkS)
+(module CONN_2.54mm_1x4 (layer F.Cu) (tedit 55AAD08D)
+  (fp_text reference REF** (at 0 2.3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 -2.286) (layer F.SilkS) hide
+  (fp_text value CONN_2.54mm_1x4 (at 0 -2.4) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
   )
   (fp_line (start -5.2 1.2) (end 5.2 1.2) (layer F.SilkS) (width 0.254))
