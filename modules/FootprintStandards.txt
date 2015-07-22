@@ -1,0 +1,26 @@
+The following document contains the standards that the footprints should use:
+
+
+Text:
+=============================
+Reference is on Front Silk Screen and is visible, starting value of REF**
+Value is on Front Silk Screen and is invisible, starting value of the footprint name
+Width = 1mm
+Height = 1mm
+Thickness = 1.5mm
+
+
+Naming:
+==============================
+
+For surface mount components:
+Every field is separated by an underscore.
+
+Field 1 - Chip's pacakge label
+Field 2 - Total number of pins on the chip
+Field 3 - Width of the chip (the plastic casing)
+Field 4 - Length of the chip (the plastic casing)
+Field 5 - Pitch of the pins
+Field 6 - Additional notation about the package
+
+Example: SSOP_20_4.5mm_6.6mm_0.65mm_PWP
