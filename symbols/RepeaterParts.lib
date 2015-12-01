@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# TS-64WDS
+#
+DEF TS-64WDS CTCSS 0 40 Y Y 1 F N
+F0 "CTCSS" 150 -650 60 H V C CNN
+F1 "TS-64WDS" 150 800 60 H V C CNN
+F2 "" 150 -50 60 H V C CNN
+F3 "" 150 -50 60 H V C CNN
+DRAW
+S -400 750 400 -600 0 1 0 N
+X High_Pass_Filter_In 1 -500 650 100 R 40 40 1 1 I
+X Mic_Hang-up/Busy 2 -500 550 100 R 40 40 1 1 I
+X +Voltage 3 -500 450 100 R 40 40 1 1 I
+X PTT_Input 4 -500 350 100 R 40 40 1 1 I
+X Alert_Tone_Out 5 -500 250 100 R 40 40 1 1 I
+X CTCSS_Output 6 -500 150 100 R 40 40 1 1 I
+X RX_Mute_#2 7 -500 50 100 R 40 40 1 1 I
+X High_Pass_Filter_Mute 8 -500 -50 100 R 40 40 1 1 I
+X Ground 9 -500 -150 100 R 40 40 1 1 I
+X PTT_Output 10 -500 -250 100 R 40 40 1 1 I
+X High_Pass_Filter_Out 11 -500 -350 100 R 40 40 1 1 I
+X Discriminator_Input 12 -500 -450 100 R 40 40 1 1 I
+X RX_Mute_#1 13 -500 -550 100 R 40 40 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
