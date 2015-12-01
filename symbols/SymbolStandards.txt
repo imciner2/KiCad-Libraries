@@ -1,0 +1,9 @@
+The following document contains the standards that the symbols should use:
+
+Pins:
+==========================
+Text Width:  0.040 in
+Text Height: 0.040 in
+Length:      0.100 in
+
+
