@@ -10,6 +10,11 @@ D Polarized Capacitor
 K Polarized Capacitor
 $ENDCMP
 #
+$CMP IND
+D Inductor
+K Inductor
+$ENDCMP
+#
 $CMP RES
 D Resistor
 K Resistor
