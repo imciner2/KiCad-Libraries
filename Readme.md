@@ -33,7 +33,7 @@ To get the contents of this library into a project git repository:
 
 To read in any changes from remote into the project repository:
 
-1. Fetch the changes
+1. Fetch the libraries repository (if an error occurs running this command, add the remote library again)
 
     ``` git fetch libraries ```
 
@@ -44,6 +44,34 @@ To read in any changes from remote into the project repository:
 3. Commit the changes
 
     ``` git commit -m "Updated libraries directory" ```
+
+To update the remote with any component changes from this project repository:
+
+1. Create commits for the changes (make them seperate from everything else)
+
+2. Fetch the libraries repository (if an error occurs running this command, add the remote library again)
+
+		``` git fetch libraries ```
+
+3. Create a new branch locally
+
+		``` git checkout -b library-work libraries/master ```
+
+4. Add the commits to the desired commits to the new branch (The command shown below will use the 5th commit before the current revision, simply modify the 5 to change which commit is referenced).
+
+		``` git cherry-pick -x --strategy=subtree master~5 ```
+
+5. Push the changes back to the library master
+
+		``` git push libraries library-work:master ```
+
+6. Change back to the project repository
+
+		``` git checkout master ```
+
+7. Delete the working branch
+
+		``` git branch -D library-work ```
 
 ### Templates
 
