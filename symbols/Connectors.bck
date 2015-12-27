@@ -1,0 +1,48 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP COAXIAL
+D Coaxial Cable Connector
+K Coax Connector, Coaxial Connector
+$ENDCMP
+#
+$CMP CONN_1x1
+D 1x1 Connector
+$ENDCMP
+#
+$CMP CONN_1x10
+D 1x8 Connector
+$ENDCMP
+#
+$CMP CONN_1x2
+D 1x2 Connector
+$ENDCMP
+#
+$CMP CONN_1x3
+D 1x3 Connector
+$ENDCMP
+#
+$CMP CONN_1x4
+D 1x4 Connector
+$ENDCMP
+#
+$CMP CONN_1x5
+D 1x5 Connector
+$ENDCMP
+#
+$CMP CONN_1x6
+D 1x6 Connector
+$ENDCMP
+#
+$CMP CONN_1x7
+D 1x7 Connector
+$ENDCMP
+#
+$CMP CONN_1x8
+D 1x8 Connector
+$ENDCMP
+#
+$CMP CONN_1x9
+D 1x9 Connector
+$ENDCMP
+#
+#End Doc Library
