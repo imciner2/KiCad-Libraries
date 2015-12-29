@@ -14,4 +14,9 @@
   (pad 3 thru_hole circle (at -4.191 0) (size 2.286 2.286) (drill 1.905) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at 4.191 7.2898) (size 3.302 3.302) (drill 3.048) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at -4.191 7.2898) (size 3.302 3.302) (drill 3.048) (layers *.Cu *.Mask F.SilkS))
+  (model 3D/Connectors/MOLEX_MINI-FIT-JR_3_PTH_RT_PEG.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 90))
+  )
 )
