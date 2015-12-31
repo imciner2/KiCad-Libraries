@@ -1,3 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP HAMTRONICS_R303
+D Hamtronics R303 VHF FM Receiver
+$ENDCMP
+#
+$CMP HAMTRONICS_R306
+D Hamtronics R306 UHF FM Receiver
+$ENDCMP
+#
+$CMP HAMTRONICS_T301
+D Hamtronics T301 VHF FM Exciter
+$ENDCMP
+#
+$CMP HAMTRONICS_T304
+D Hamtronics T304 UHF FM Exciter
+$ENDCMP
+#
+$CMP RC210
+D RC210 Radio Port
+$ENDCMP
+#
 #End Doc Library
