@@ -120,6 +120,7 @@ MiscellaneousDevices -
  * Analog Devices ADA4805-1 low power/shutdown controller operational amplifier
  * TI LM3481 DC/DC low-side NFET converter controller
  * CubeSat Kit 52-pin dual row header
+ * Adafruit Feather Board
 
 RF_OEM_Parts - 
  * RFD900
@@ -210,6 +211,7 @@ Fooprints -
  * Racom RAC15 Series Board Mount Power Supplies
  * CUI VSK-S20 Series Board Mount Power Supplies
  * Honeywell HIH-5030/5031 Humidity Sensor
+ * Adafruit Feather Board
 
 3D Components:
  * ADXL345
