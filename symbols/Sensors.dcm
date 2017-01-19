@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SHARP_PHOTO_INTERRUPTER
+D Sharp GP1A57HRJ00F Photointerrupter
+K Photointerrupter
+F ../Datasheets/Sharp_PhotoInterrupter_GP1A57HRJ00F.pdf
+$ENDCMP
+#
+#End Doc Library
