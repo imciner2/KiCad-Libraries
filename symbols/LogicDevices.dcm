@@ -6,4 +6,10 @@ K I2C, SPI, Level Translator
 F Datasheets/TI_PCA9306_LevelTranslator.pdf
 $ENDCMP
 #
+$CMP TXB0102
+D TI TXB0102 2-bit Push-Pull Voltage Level Translator
+K Voltage Level Translator
+F Datasheets/TI_TXB0102_PushPull-LevelTranslator.pdf
+$ENDCMP
+#
 #End Doc Library

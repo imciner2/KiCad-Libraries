@@ -9,6 +9,7 @@ $ENDCMP
 $CMP MCP6L02
 D MCP6L02 Dual Operational Amplifier by Microchip
 K Operational Amplifier
+F Datasheets/Microchip_OpAmp_MCP6L02.pdf
 $ENDCMP
 #
 #End Doc Library
