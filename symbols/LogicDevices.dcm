@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCA9306
+D Bi-directional I2C and SPI level translator
+K I2C, SPI, Level Translator
+F Datasheets/TI_PCA9306_LevelTranslator.pdf
+$ENDCMP
+#
+#End Doc Library

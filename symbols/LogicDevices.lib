@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# PCA9306
+#
+DEF PCA9306 AT 0 40 Y Y 1 F N
+F0 "AT" 250 350 60 H V C CNN
+F1 "PCA9306" 0 -350 60 H V C CNN
+F2 "" -250 -200 60 H I C CNN
+F3 "http://www.ti.com/lit/ds/symlink/pca9306.pdf" 150 450 60 H I C CNN
+F4 "296-18509-1-ND" 0 550 60 H I C CNN "DigikeyNumber"
+F5 "Texas Instruments" 0 650 60 H I C CNN "Manufacturer"
+F6 "PCA9306" 0 750 60 H I C CNN "ManufacturerNumber"
+DRAW
+S -350 300 350 -300 0 1 0 N
+X GND 1 450 -250 100 L 40 40 1 1 w
+X VREF_1 2 -450 250 100 R 40 40 1 1 W
+X SCL_1 3 -450 0 100 R 40 40 1 1 C
+X SDA_1 4 -450 -100 100 R 40 40 1 1 C
+X SDA_2 5 450 -100 100 L 40 40 1 1 C
+X SCL_2 6 450 0 100 L 40 40 1 1 C
+X VREF_2 7 450 250 100 L 40 40 1 1 W
+X EN 8 450 100 100 L 40 40 1 1 C
+ENDDRAW
+ENDDEF
+#
+#End Library
