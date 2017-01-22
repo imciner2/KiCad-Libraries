@@ -13,12 +13,14 @@ This library is licensed under the Creative Commons BY-SA 4.0 license. The full 
 ## Using this library
 
 There are 2 ways to use this library: 
+
 1. Copy files locally into project directory (such as by making a Git Subtree)
 2. Make a reference to this git repository inside the project (such as by making a Git Submodule)
 
 Both of these methods are discussed in their respective files:
-1) UsingGitSubtree.md
-2) UsingGitSubmodule.md
+
+1. UsingGitSubtree.md
+2. UsingGitSubmodule.md
 
 
 ### Templates
