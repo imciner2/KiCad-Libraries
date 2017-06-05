@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SNICK_J2
+D Connector J2 for the Snickerdoodle
+K Snickerdoodle, J2
+$ENDCMP
+#
+$CMP SNICK_J3
+D Connector J3 for the Snickerdoodle
+K Snickerdoodle, J3
+$ENDCMP
+#
+$CMP SNICK_JA1
+D Connector JA1 for the Snickerdoodle
+K Snickerdoodle, JA1
+$ENDCMP
+#
+$CMP SNICK_JA2
+D Connector JA2 for the Snickerdoodle
+K Snickerdoodle, JA2
+$ENDCMP
+#
+$CMP SNICK_JB1
+D Connector JB1 for the Snickerdoodle
+K Snickerdoodle, JB1
+$ENDCMP
+#
+$CMP SNICK_JB2
+D Connector JB2 for the Snickerdoodle
+K Snickerdoodle, JB2
+$ENDCMP
+#
+$CMP SNICK_JC1
+D Connector JC1 for the Snickerdoodle (Only on the Snickerdoodle Black)
+K Snickerdoodle, JC1
+$ENDCMP
+#
+#End Doc Library
