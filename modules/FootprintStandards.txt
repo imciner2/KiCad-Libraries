@@ -1,6 +1,14 @@
 The following document contains the standards that the footprints should use:
 
+=============================
+Pad Design
+=============================
+For PTH parts:
+* Pad 1 should be a square pad, all others should be round unless required
+* Annular ring size should be 1.778mm (0.007in)
 
+
+=============================
 Text:
 =============================
 Reference is on Front Silk Screen and is visible, starting value of REF**
@@ -10,12 +18,32 @@ Height = 1mm
 Thickness = 1.5mm
 
 
+==============================
 Naming:
 ==============================
 
-For surface mount components:
-Every field is separated by an underscore.
+Note: Every field is separated by an underscore.
 
+For connectors (generic):
+------------------------------
+Field 1 - CONN
+Field 2 - Pin spacing (in mm)
+Field 3 - Number of rows & pins in a row (ie rows x num in rows)
+
+Example: CONN_2.54mm_1x4
+
+Conectors (specific):
+------------------------------
+Field 1 - Connector Type (optional)
+Field 2 - Manufacturer's Name
+Field 3 - Manufacturer's part number
+
+Example (with type): DC_2.1mm_CUI-PJ-202A
+Example (no type)  : SAMTEC_TFM-115-01-F-D-A
+
+
+Surface mount components:
+-------------------------------
 Field 1 - Chip's pacakge label
 Field 2 - Total number of pins on the chip
 Field 3 - Width of the chip (the plastic casing)
