@@ -17,7 +17,7 @@
   (pad 2 thru_hole circle (at 7.6 -1.27) (size 1.016 1.016) (drill 0.6) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 7.6 1.27) (size 1.016 1.016) (drill 0.6) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 0 0) (size 2.286 2.286) (drill 1.75) (layers *.Cu *.Mask))
-  (model /home/imcinerney/Documents/Github/Crazyflie_Tools/Propeller_Speed/2-Hardware/KiCad-Libraries/3D/SHARP_GP1A57HRJ00F.wrl
+  (model /usr/share/kicad/modules/packages3d/3D/SHARP_GP1A57HRJ00F.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
