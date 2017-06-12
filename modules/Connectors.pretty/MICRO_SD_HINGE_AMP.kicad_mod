@@ -21,7 +21,7 @@
   (pad SHLD smd rect (at -6.72592 11.99896) (size 1.04902 1.50114) (layers F.Cu F.Paste F.Mask))
   (pad SHLD smd rect (at 6.72592 3.59918) (size 1.04902 1.50114) (layers F.Cu F.Paste F.Mask))
   (pad SHLD smd rect (at -6.72592 3.59918) (size 1.04902 1.50114) (layers F.Cu F.Paste F.Mask))
-  (model 3D/SD-Amp-microSlot.wrl
+  (model 3D/Connectors/SD-Amp-microSlot.wrl
     (at (xyz 0 -0.261181 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
