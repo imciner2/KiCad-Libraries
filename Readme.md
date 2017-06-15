@@ -177,23 +177,3 @@ Fooprints -
  * Honeywell HIH-5030/5031 Humidity Sensor
  * Adafruit Feather Board
 
-3D Components:
- * ADXL345
- * Connector - Deans
- * Connector - Deans Micro
- * LED - 1206
- * D2PACK
- * Battery - CR2032 by Memory Protection Devices (Digikey #: BC2032-F1-ND)
- * HC-49 Surface Mount Crystal
- * Antenova M2M M10382 GPS Module
- * MPU9150
- * MicroSD - Hinged slot by Amphenol (Digikey #: 101-00303-68-1-ND)
- * SOT363
- * Solarcells - Spectrolab TASC1
- * Solarcells - Spectrolab TASC2
- * Solarcells - Spectrolab 26.62 sq-cm CIC
- * Switch - 3-switch SMD DIP Switch (Digikey #: CKN6060-ND)
- * Switch - DPDT by Eswitch (Digikey #: EG1940-ND)
- * Switch - DPST by Tyco Electronics (Digikey #: 450-1635-ND)
- * Skytraq Venus638 GPS Module
- * SON-10 package
