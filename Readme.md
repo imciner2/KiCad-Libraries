@@ -22,16 +22,30 @@ Both of these methods are discussed in their respective files:
 1. UsingGitSubtree.md
 2. UsingGitSubmodule.md
 
+### 3D Parts
+
+In order to view the 3D parts that accompany the footprints, you must add an environment variable called KISYS3DMOD. If it has not been created, this variable points to the location of the preinstalled 3D models. To use these models and the ones in this repo, simply place both paths in the environment variable.
+
+Note: The path should be to the root of the repository, not the 3D directory.
+
+To add this in Linux (and remove existing models), add these two lines to the .bashrc file
+
+```
+# Add an environment variable to add the GitHub KiCad 3D models
+export KISYS3DMOD='*path/to/github/directory*'
+```
 
 ### Templates
 
 In order to use the templates contained in this folder, you must add an environment variable called KICAD_PTEMPLATES. This will create a page in the Kicad template selector for "Portable Templates".
 
+Note: Templates must be specified on the end of the environment variable
+
 To add this in Linux, simply add these two lines to the .bashrc file
 
 ```
 # Add an environment variable to add the GitHub KiCad templates
-export KICAD_PTEMPLATES='path/to/github/directory'
+export KICAD_PTEMPLATES='*path/to/github/directory*/Templates'
 ```
 
 ## Schematic Library Contents
