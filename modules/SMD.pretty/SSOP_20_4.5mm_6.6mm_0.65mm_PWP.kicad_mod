@@ -31,7 +31,7 @@
   (pad 19 smd rect (at -2.275 -2.8) (size 0.4 1.6) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd rect (at -2.925 -2.8) (size 0.4 1.6) (layers F.Cu F.Paste F.Mask))
   (pad PWP smd rect (at 0 0) (size 3.38 2.4) (layers F.Cu F.Paste F.Mask))
-  (model 3D/SMD/SSOP_20_4.5mm_6.6mm_0.65mm.wrl
+  (model 3D/SMD/SSOP_20_4.50mm_6.60mm_1.20mm_P0.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 90))
