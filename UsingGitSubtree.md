@@ -40,24 +40,24 @@
 
 2. Fetch the libraries repository (if an error occurs running this command, add the remote library again)
 
-		``` git fetch libraries ```
+    ``` git fetch libraries ```
 
 3. Create a new branch locally
 
-		``` git checkout -b library-work libraries/master ```
+    ``` git checkout -b library-work libraries/master ```
 
 4. Add the commits to the desired commits to the new branch (The command shown below will use the 5th commit before the current revision, simply modify the 5 to change which commit is referenced).
 
-		``` git cherry-pick -x --strategy=subtree master~5 ```
+    ``` git cherry-pick -x --strategy=subtree master~5 ```
 
 5. Push the changes back to the library master
 
-		``` git push libraries library-work:master ```
+    ``` git push libraries library-work:master ```
 
 6. Change back to the project repository
 
-		``` git checkout master ```
+    ``` git checkout master ```
 
 7. Delete the working branch
 
-		``` git branch -D library-work ```
+    ``` git branch -D library-work ```
