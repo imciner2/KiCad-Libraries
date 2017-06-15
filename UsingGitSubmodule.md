@@ -24,4 +24,4 @@ When you first clone a KiCad repository with a submodule of the library, it will
 
 This may not always put you on a branch in the server's repository (it may leave you on a floating head branch). To get back to a branch you can make changes to and push to the master, run this inside the submodule:
 
-    ``` git checkout master ```
+``` git checkout master ```
