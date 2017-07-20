@@ -1,11 +1,11 @@
 No Lead Packages:
 
-*Length*_*Width*_*Height
+*length*\_*width*\_*height*
 
 SOIC:
 
-*Length*_*Width*_*Height*_P*Pitch*
+*length*\_*width*\_*height*\_P*pitch*
 
 SSOP:
 
-*Length*_*Width*_*Height*_P*Pitch*
+*length*\_*width*\_*height*\_P*pitch*
