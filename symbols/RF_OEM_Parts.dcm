@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP-12S
+D ESP8266 WiFi module
+K ESP8266
+F Datasheets/ESP-12s_WiFiModule.pdf
+$ENDCMP
+#
+#End Doc Library
