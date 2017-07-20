@@ -7,7 +7,7 @@ A library containing Kicad schematic symbols, footprints, and project templates.
 
 <div align="center"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /></div>
 
-This library is licensed under the Creative Commons BY-SA 4.0 license. The full legal text of the license may be found in the LICENSE.txt file in this repository. For more information about this license, please visit the Creative Commons Foundation (http://creativecommons.org/licenses/by-sa/4.0/).
+This library is licensed under the Creative Commons BY-SA 4.0 license. The full legal text of the license may be found in the [License](LICENSE.txt) file in this repository. For more information about this license, please visit the Creative Commons Foundation (http://creativecommons.org/licenses/by-sa/4.0/).
 
 - - -
 ## Using this library
@@ -19,8 +19,8 @@ There are 2 ways to use this library:
 
 Both of these methods are discussed in their respective files:
 
-1. UsingGitSubtree.md
-2. UsingGitSubmodule.md
+1. [Git Subtrees](UsingGitSubtree.md)
+2. [Git Submodules](UsingGitSubmodule.md)
 
 ### 3D Parts
 
@@ -110,70 +110,3 @@ TransistorParts -
  * Dual NMOS in one package
  * NMOS with body diode
  * PMOS with body diode
-
-
-## PCB Footprints
-
-(Unless a manufacturer/pitch is specified, all connectors are 0.1in pitch)
-
-Fooprints - 
- * Axis Notation - Z into board
- * Axis Notation - Z out of board
- * Battery Holder - CR2032 by Memory protection Devices (Digikey #: BC2032-F1-ND)
- * Battery Holder - CR2032 by Tyco Electronics (Digikey #: A99327CT-ND)
- * Connector - 1x1 (No Silkscreen)
- * Connector - 1x2
- * Connector - 1x3 (Friction Fit capable)
- * Connector - 1x4 (Friction Fit capable)
- * Connector - 1x5 (Friction Fit capable)
- * Connector - 1x6 (Friction Fit capable)
- * Connector - 1x7 (Friction Fit capable)
- * Connector - 1x8 (Friction Fit capable)
- * Connector - 1x9 (Friction Fit capable)
- * Connector - 2x2
- * Connector - 2x3
- * Connector - 2x4
- * Connector - 2x5
- * Connector - 2x6
- * Connector - 2x7
- * Connector - 2x8
- * Connector - 2x9
- * Connector - 2x17
- * Connector - DB9 Slim Mount
- * Connector - Deans
- * Connector - Deans Micro
- * Connector - JST 2-terminal SMD
- * Connector - JST 3-terminal SMD
- * Connector - JST 3-terminal Throughole
- * Connector - Molex MiniFit Jr. 3-terminal Throughole
- * Connector - CubeSat Kit dual row 52-pin header
- * Radial Capacitors:
-    - 2.0mm lead spacing, 6.3mm diameter
-    - 2.5mm lead spacing, 5.0mm diameter
-    - 5.0mm lead spacing, 10.0mm diameter
- * D2PACK
- * HC-49 Surface Mount Crystal
- * LGA 14 package used by the ADXL345 accelerometer
- * SON-10 package used by the TPS6063x series regulators
- * MicroSD - Hinged slot by Amphenol (Digikey #: 101-00303-68-1-ND)
- * Antenova M2M M10382 GPS Module
- * Invensense MPU9150
- * Nichrome Wire Connections - Surface mount
- * 0805 Split pad device (Soldering component completes connection between pad)
- * 2010 Surface Mount Package
- * SOT363 Surface Mount Package
- * T0-220 Horizontal Package
- * Solarcells - Spectrolab 26.62 CICs
- * Solarcells - Spectrolab TASC1
- * Solarcells - Spectrolab TASC2
- * Switch - 3-switch SMD DIP Switch (Digikey #: CKN6060-ND)
- * Switch - DPDT by Eswitch (Digikey #: EG1940-ND)
- * Switch - DPST by Tyco Electronics (Digikey #: 450-1635-ND)
- * Synapse SM200
- * Skytraq Venus638
- * Xbee/Xbee pro (Connectors Digikey Part #: S5751-10-ND)
- * Racom RAC15 Series Board Mount Power Supplies
- * CUI VSK-S20 Series Board Mount Power Supplies
- * Honeywell HIH-5030/5031 Humidity Sensor
- * Adafruit Feather Board
-
