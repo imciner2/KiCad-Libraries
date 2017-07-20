@@ -1,4 +1,4 @@
-# Table of Contents
+# Library Standards
 
 * [Schematic Symbol Standards](#schematic-symbol-standards)
   * [Text](#text)
