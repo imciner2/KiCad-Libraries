@@ -45,4 +45,13 @@ $CMP CONN_1x9
 D 1x9 Connector
 $ENDCMP
 #
+$CMP JTAG_ARM_2x5
+D 10-pin ARM Cortex JTAG Connector
+F ../Datasheets/JTAG_ARM_Cortex.pdf
+$ENDCMP
+#
+$CMP JTAG_XILINX_2x7
+D 14-pin Xilinx JTAG Connector
+$ENDCMP
+#
 #End Doc Library
