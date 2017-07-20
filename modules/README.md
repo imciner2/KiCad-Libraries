@@ -2,6 +2,8 @@
 
 This directory contains the footprint modules for this KiCad library. All the footprints in this library are designed to be hand-solderable.
 
+The footprints contained in these libraries follow the standards outlined in the master standards file for the repository: [Standards](../LibraryStandards.md)
+
 # Library Listing
 
 * [Batteries](#batteries)
