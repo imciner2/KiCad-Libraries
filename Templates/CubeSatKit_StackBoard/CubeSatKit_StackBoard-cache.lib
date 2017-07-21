@@ -1,4 +1,4 @@
-EESchema-LIBRARY Version 2.3  Date: Wed 25 Feb 2015 02:08:16 AM CST
+EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
 # CSK_HEADER
@@ -6,8 +6,8 @@ EESchema-LIBRARY Version 2.3  Date: Wed 25 Feb 2015 02:08:16 AM CST
 DEF CSK_HEADER U 0 40 Y Y 1 F N
 F0 "U" 0 1350 60 H V C CNN
 F1 "CSK_HEADER" 0 -50 60 V V C CNN
-F2 "~" 0 0 60 H V C CNN
-F3 "~" 0 0 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
 DRAW
 S -300 1300 300 -1300 0 1 0 N
 X 1 1 -500 1250 200 R 50 50 1 1 B
