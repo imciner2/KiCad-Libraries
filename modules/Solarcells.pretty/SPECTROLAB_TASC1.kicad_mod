@@ -1,0 +1,20 @@
+(module SPECTROLAB_TASC1 (layer F.Cu) (tedit 51D34E51)
+  (solder_paste_ratio -0.5)
+  (fp_text reference SPECTROLAB_TASC1 (at 6.4 1.5) (layer F.SilkS) hide
+    (effects (font (thickness 0.3048)))
+  )
+  (fp_text value VAL** (at -1.27 -16.002 90) (layer F.SilkS) hide
+    (effects (font (thickness 0.3048)))
+  )
+  (fp_line (start 12.8778 0) (end 3.048 -29.2862) (layer F.SilkS) (width 0.381))
+  (fp_line (start 3.048 -29.2862) (end 0 -31.8516) (layer F.SilkS) (width 0.381))
+  (fp_line (start 12.8778 0) (end 0 0) (layer F.SilkS) (width 0.381))
+  (fp_line (start 0 0) (end 0 -31.8516) (layer F.SilkS) (width 0.381))
+  (pad 1 smd rect (at -1.27 -4.5085) (size 1.524 2.0574) (layers F.Cu F.Paste F.Mask))
+  (pad 2 smd rect (at 3.175 -11.43) (size 1.524 19.05) (layers F.Cu F.Paste F.Mask))
+  (model 3D/Solarcells/Spectrolab_TASC1.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 0))
+  )
+)
