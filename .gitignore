@@ -3,6 +3,7 @@
 #################
 *.bak
 *.bck
+*.kicad_pcb-bak
 
 #################
 # Wings 3D File Excludes
