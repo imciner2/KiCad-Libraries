@@ -41,9 +41,10 @@ The text fields that should be included on the part are:
 * Value is on Front Silk Screen and is invisible, starting value of the footprint name
 
 All text should have the following properties
+
 | Width  | Height | Thickness | 
 | ------ | ------ | --------- |
-| 1mm    | 1mm    | 1.5mm     |
+| 1mm    | 1mm    | 0.2mm     |
 
 
 ## Naming Convention
