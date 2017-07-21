@@ -2,6 +2,7 @@
 ## KiCad Library Excludes
 #################
 *.bak
+*.bck
 
 #################
 # Wings 3D File Excludes
