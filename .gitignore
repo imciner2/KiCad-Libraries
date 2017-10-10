@@ -17,6 +17,10 @@
 .gitignore~
 *.swp		# Ignore Vim swap files
 
+#################
+# Python interpreter files
+#################
+*.pyc
 
 ############
 ## Windows
