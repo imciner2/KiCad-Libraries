@@ -5,44 +5,48 @@ D Coaxial Cable Connector
 K Coax Connector, Coaxial Connector
 $ENDCMP
 #
-$CMP CONN_1x1
-D 1x1 Connector
+$CMP CONN_001
+D 1 pin connector
 $ENDCMP
 #
-$CMP CONN_1x10
-D 1x10 Connector
-$ENDCMP
-#
-$CMP CONN_1x2
+$CMP CONN_002
 D 1x2 Connector
 $ENDCMP
 #
-$CMP CONN_1x3
+$CMP CONN_003
 D 1x3 Connector
 $ENDCMP
 #
-$CMP CONN_1x4
+$CMP CONN_004
 D 1x4 Connector
 $ENDCMP
 #
-$CMP CONN_1x5
-D 1x5 Connector
+$CMP CONN_005
+D 5 pin connector
 $ENDCMP
 #
-$CMP CONN_1x6
-D 1x6 Connector
+$CMP CONN_006
+D 6 pin connector
 $ENDCMP
 #
-$CMP CONN_1x7
-D 1x7 Connector
+$CMP CONN_007
+D 7 pin connector
 $ENDCMP
 #
-$CMP CONN_1x8
-D 1x8 Connector
+$CMP CONN_008
+D 8 pin connector
 $ENDCMP
 #
-$CMP CONN_1x9
-D 1x9 Connector
+$CMP CONN_009
+D 9 pin connector
+$ENDCMP
+#
+$CMP CONN_010
+D 10 pin connector
+$ENDCMP
+#
+$CMP CONN_040
+D 40 pin connector
 $ENDCMP
 #
 $CMP JTAG_ARM_2x5
