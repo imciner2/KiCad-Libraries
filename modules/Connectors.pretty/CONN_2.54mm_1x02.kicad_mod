@@ -1,8 +1,8 @@
-(module CONN_2.54mm_1x2 (layer F.Cu) (tedit 55AAD0C9)
+(module CONN_2.54mm_1x02 (layer F.Cu) (tedit 55AAD0C9)
   (fp_text reference REF** (at 0 2.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value CONN_2.54mm_1x2 (at 0 -2.4) (layer F.SilkS) hide
+  (fp_text value CONN_2.54mm_1x02 (at 0 -2.4) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
   )
   (fp_line (start 0 1.2) (end 0 -1.2) (layer F.SilkS) (width 0.254))
@@ -10,6 +10,6 @@
   (fp_line (start 2.6 -1.2) (end 2.6 1.2) (layer F.SilkS) (width 0.254))
   (fp_line (start 2.6 1.2) (end -2.6 1.2) (layer F.SilkS) (width 0.254))
   (fp_line (start -2.6 1.2) (end -2.6 -1.2) (layer F.SilkS) (width 0.254))
-  (pad 1 thru_hole rect (at 1.27 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
-  (pad 2 thru_hole circle (at -1.27 0) (size 1.397 1.397) (drill 0.8128) (layers *.Cu *.Mask F.SilkS))
+  (pad 1 thru_hole rect (at 1.27 0) (size 1.397 1.397) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole circle (at -1.27 0) (size 1.397 1.397) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
 )
