@@ -10,15 +10,15 @@ D 1 pin connector
 $ENDCMP
 #
 $CMP CONN_002
-D 1x2 Connector
+D 2 pin connector
 $ENDCMP
 #
 $CMP CONN_003
-D 1x3 Connector
+D 3 pin connector
 $ENDCMP
 #
 $CMP CONN_004
-D 1x4 Connector
+D 4 pin connector
 $ENDCMP
 #
 $CMP CONN_005
