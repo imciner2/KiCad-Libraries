@@ -51,4 +51,9 @@
   (pad 38 thru_hole circle (at -1.27 -21.59) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 39 thru_hole circle (at 1.27 -24.13) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
   (pad 40 thru_hole circle (at -1.27 -24.13) (size 1.524 1.524) (drill 1.016) (layers *.Cu *.Mask F.SilkS))
+  (model 3D/Connectors/CONN_2x20_Male_Shrouded.wrl
+    (at (xyz 0.165 -1.15 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 -90))
+  )
 )
